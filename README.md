@@ -133,6 +133,10 @@ php artisan test
 - Product reviews and ratings
 - Wishlist
 
+## Author
+
+Sherzad Oryakhil - CodeAlpha Internship, Task 1.
+
 ## License
 
 This project is open-source and available under the [MIT license](https://opensource.org/licenses/MIT).
